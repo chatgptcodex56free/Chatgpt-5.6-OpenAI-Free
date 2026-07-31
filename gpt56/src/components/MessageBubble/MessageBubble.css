@@ -1,0 +1,8 @@
+.msg { max-width: 75%; }
+.msg--user { align-self: flex-end; }
+.msg--assistant { align-self: flex-start; }
+.msg__bubble { padding: 10px 16px; border-radius: 14px; font-size: 14px; }
+.msg--user .msg__bubble { background: #1d4ed8; color: #fff; }
+.msg--assistant .msg__bubble { background: #1a1a2e; color: #e0e0e0; border-left: 2px solid var(--model-color, #888); }
+.msg__text { font-family: inherit; white-space: pre-wrap; word-break: break-word; margin: 0; line-height: 1.6; }
+.msg__meta { display: block; font-size: 10px; color: #555; margin-top: 6px; text-align: right; }

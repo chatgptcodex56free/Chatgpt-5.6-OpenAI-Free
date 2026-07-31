@@ -1,0 +1,4 @@
+.model-picker { display: flex; gap: 6px; flex-wrap: wrap; }
+.model-btn { padding: 4px 12px; border-radius: 8px; border: none; background: #1a1a2e; color: #888; font-size: 12px; cursor: pointer; transition: all 0.15s; }
+.model-btn--active { background: var(--accent, #f59e0b); color: #000; font-weight: 600; }
+.model-btn:hover:not(.model-btn--active) { background: #2a2a3e; color: #ccc; }
